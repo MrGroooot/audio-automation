@@ -1,0 +1,17 @@
+[
+  {
+    "id": "lead_1793262341724_96gya",
+    "createdAt": "2026-10-29T08:25:41.724Z",
+    "fullName": "Marcus Vance",
+    "businessEmail": "mvance@apexdealers.com",
+    "companyName": "Apex Automotive Group",
+    "jobTitle": "General Manager",
+    "companyType": "Dealer Group",
+    "monthlyCallVolume": "5,000 - 20,000 calls/mo",
+    "mainInterest": "Both Inbound & Outbound",
+    "currentChallenge": "Weekend inbound lead response is too slow and service follow-ups are tracked manually.",
+    "consent": true,
+    "status": "pending_review",
+    "ip": "127.0.0.1"
+  }
+]
